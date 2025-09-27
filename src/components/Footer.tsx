@@ -18,9 +18,9 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <div className="w-8 h-8 bg-gradient-hero rounded-lg flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-sm">TE</span>
+                <span className="text-primary-foreground font-bold text-sm">TB</span>
               </div>
-              <span className="font-bold text-xl">TechEase Solutions</span>
+              <span className="font-bold text-xl">TechBuddy PH</span>
             </div>
             <p className="text-background/80 leading-relaxed">
               Making technology simple, accessible, and reliable for businesses 
@@ -80,7 +80,7 @@ const Footer = () => {
           <div className="space-y-4">
             <h3 className="font-semibold text-lg">Our Services</h3>
             <div className="space-y-2">
-              <p className="text-background/80">TechEase Support Bot</p>
+              <p className="text-background/80">TechBuddy Support Bot</p>
               <p className="text-background/80">Cloud Solutions</p>
               <p className="text-background/80">Managed IT Services</p>
               <p className="text-background/80">IT Consulting</p>
@@ -106,7 +106,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <Mail size={18} className="text-secondary flex-shrink-0" />
-                <p className="text-background/80">hello@techease.ph</p>
+                <p className="text-background/80">hello@techbuddy.ph</p>
               </div>
             </div>
           </div>
@@ -116,7 +116,7 @@ const Footer = () => {
         <div className="border-t border-background/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-background/60 text-sm">
-              © {currentYear} TechEase Solutions, Inc. All rights reserved.
+              © {currentYear} TechBuddy PH, Inc. All rights reserved.
             </div>
             <div className="flex space-x-6 text-sm">
               <a href="#" className="text-background/60 hover:text-secondary transition-colors">

@@ -95,8 +95,8 @@ const Hero = () => {
           <div className="relative">
             <div className="relative z-10">
               <img
-                src={heroImage}
-                alt="TechEase Solutions team working on AI development in Manila office"
+                  src={heroImage}
+                  alt="TechBuddy PH team working on AI development in Manila office"
                 className="rounded-2xl shadow-hero w-full h-auto"
               />
             </div>

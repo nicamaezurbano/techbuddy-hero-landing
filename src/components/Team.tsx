@@ -14,7 +14,7 @@ const Team = () => {
       bio: "Visionary leader with 15+ years in tech innovation. Passionate about making technology accessible to Filipino businesses.",
       linkedin: "#",
       twitter: "#",
-      email: "maria.santos@techease.ph"
+      email: "maria.santos@techbuddy.ph"
     },
     {
       name: "Carlos Mendoza",
@@ -23,16 +23,16 @@ const Team = () => {
       bio: "Expert in AI development and cloud architecture. Leads our technical innovation and product development initiatives.",
       linkedin: "#",
       twitter: "#",
-      email: "carlos.mendoza@techease.ph"
+      email: "carlos.mendoza@techbuddy.ph"
     },
     {
       name: "Dr. Ana Reyes",
       position: "Head of AI Development",
       image: aiHeadImage,
-      bio: "PhD in Machine Learning with expertise in multilingual NLP. Drives our AI research and TechEase Support Bot evolution.",
+      bio: "PhD in Machine Learning with expertise in multilingual NLP. Drives our AI research and TechBuddy Support Bot evolution.",
       linkedin: "#",
       twitter: "#",
-      email: "ana.reyes@techease.ph"
+      email: "ana.reyes@techbuddy.ph"
     },
     {
       name: "Miguel Torres",
@@ -41,7 +41,7 @@ const Team = () => {
       bio: "Operations expert ensuring smooth delivery of our services across Southeast Asia. Focuses on client success and satisfaction.",
       linkedin: "#",
       twitter: "#",
-      email: "miguel.torres@techease.ph"
+      email: "miguel.torres@techbuddy.ph"
     }
   ];
 
