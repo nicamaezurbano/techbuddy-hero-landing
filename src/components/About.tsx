@@ -25,7 +25,7 @@ const About = () => {
     },
     {
       year: "2024",
-      title: "TechEase Support Bot 2.0",
+      title: "TechBuddy Support Bot 2.0",
       description: "Multilingual omni-channel features"
     }
   ];
@@ -63,7 +63,7 @@ const About = () => {
             <span>Our Story</span>
           </div>
           <h2 className="text-3xl lg:text-5xl font-bold text-foreground mb-6">
-            About TechEase Solutions
+            About TechBuddy PH
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             Founded in 2012 in Manila, Philippines, we've grown from a small IT consultancy 

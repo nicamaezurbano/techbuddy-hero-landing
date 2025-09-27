@@ -15,7 +15,7 @@ const Services = () => {
   const services = [
     {
       icon: Bot,
-      title: "TechEase Support Bot",
+      title: "TechBuddy Support Bot",
       description: "AI-powered chatbot with multilingual support for Messenger, WhatsApp, Web, and Email",
       features: ["24/7 Automated Support", "Taglish & Regional Dialects", "Omni-channel Integration", "Smart Escalation"],
       popular: true

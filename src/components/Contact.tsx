@@ -54,7 +54,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      details: ["hello@techease.ph", "support@techease.ph"]
+      details: ["hello@techbuddy.ph", "support@techbuddy.ph"]
     },
     {
       icon: Clock,
